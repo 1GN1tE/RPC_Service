@@ -36,7 +36,7 @@ And run `sudo update-grub`
 
 ### Windows
 - Clone the repo where you want to install.
-- Open a shell(powershell/command prompt) as administrator and Run `install.bat`
+- Run `install.bat` as administrator
 
 ### Setting up SSH
 **VM**

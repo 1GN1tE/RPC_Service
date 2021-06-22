@@ -84,8 +84,10 @@ FOR /F "tokens=*" %%g IN ('where pythonw') do (SET py_path=%%g)
 
 :success
 echo [+] Installation Successful
+pause
 exit /B
 
 :fail
 echo [-] Installation Failed
+pause
 exit /B
